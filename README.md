@@ -1,6 +1,6 @@
 # 🌍 Language Translation Using Transformers
 
-![Translation Model](https://via.placeholder.com/800x200.png?text=Language+Translation+using+Transformers)
+![Translation Model](https://heidloff.net/assets/img/2023/02/transformers.png)
 
 ## 🚀 Overview
 
@@ -32,12 +32,6 @@ cd Language-Translation/Language-Translation-using-Transformers
 ```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
 ```
 
 ---
@@ -79,13 +73,7 @@ Example Output:
 
 ## 📬 Contact
 
-For feedback or suggestions, contact **Aabi** at [your.email@example.com](mailto:your.email@example.com).
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+For feedback or suggestions, contact **Aabi** at [your.email@example.com](mailto:abhishekbiradar0207@gmail.com).
 
 ---
 
